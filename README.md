@@ -1,7 +1,7 @@
-## Olá! Eu sou o Sidnei Repetcki 😊
+## Olá! Eu sou o Sidnei Repetcki Junior 😊
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React e Typescript
+- 🔭 Sou um Analista com experiência em Design e Teste de software. Apaixonado por tecnologia, jogos e cachorrinhos.
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas e atualmente Fazendo Pós em Gestão Estratégica em UX Design.
 - 📫 Contate-me no email: sid.r.junior@hotmail.com
 - 😄 Pronouns: ele/dele
 
