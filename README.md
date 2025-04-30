@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Sidnei Repetcki Junior 😊
 
-- 🔭 Sou um Analista com experiência em Design e Teste de software. Apaixonado por tecnologia, jogos e cachorrinhos.
+- 🔭 Sou um Analista com experiência em Design e Arquitetura de software. Apaixonado por tecnologia, jogos e cachorrinhos.
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas e atualmente Fazendo Pós em Gestão Estratégica em UX Design.
 - 📫 Contate-me no email: sid.r.junior@hotmail.com
 - 😄 Pronouns: ele/dele
