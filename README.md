@@ -50,7 +50,7 @@
 ## 🧑‍💻 Sobre mim
 
 Tenho experiência com suporte técnico, análise de sistemas e desenvolvimento web, o que me proporcionou uma boa base para entender problemas reais, regras de negócio e funcionamento de aplicações em produção.
-Atualmente estou em evolução na área de desenvolvimento de software, buscando aprimorar minhas habilidades em construção de sistemas, integração de serviços e boas práticas de programação.
+Atualmente estou em evolução na área de desenvolvimento, buscando aprimorar minhas habilidades em construção de sistemas, integração de serviços e boas práticas de programação.
 Tenho interesse em atuar no desenvolvimento de soluções, contribuindo com aprendizado contínuo, organização de código e trabalho em equipe.
 
 ---
