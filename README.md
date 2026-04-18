@@ -37,13 +37,9 @@
 
 ---
 
-## 🔗 LinkedIn
+## 🔗 Links
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sidnei-repetcki-junior-886a9119b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/sidnei-repetcki-junior-886a9119b/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://sidrjunior.wixsite.com/sidnei-repetcki-juni"> <img src="https://img.shields.io/badge/-Portfólio%20Power%20BI-FFB400?style=for-the-badge&logo=powerbi&logoColor=black"/> </a> </p>
 
 ---
 
