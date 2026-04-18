@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Sidnei Repetcki Junior 👋
 
 💻 Desenvolvedor com experiência em análise de sistemas e desenvolvimento web.
+
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 
 - 🔭 Experiência com suporte e sistemas corporativos  
